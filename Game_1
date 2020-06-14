@@ -1,1 +1,3 @@
-Content
+Int(Main) Void
+
+printf"Hello World\n";
